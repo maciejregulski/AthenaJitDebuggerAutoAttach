@@ -1,1 +1,1 @@
-# ZeissAthenaJitDebuggerAutoAttach
+Automatically launch Visual Studio attached JIT debugger when Athena system component starts.
